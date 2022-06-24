@@ -1,0 +1,16 @@
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\bin\Debug\net5.0\HEROES.exe
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\bin\Debug\net5.0\HEROES.deps.json
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\bin\Debug\net5.0\HEROES.runtimeconfig.json
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\bin\Debug\net5.0\HEROES.runtimeconfig.dev.json
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\bin\Debug\net5.0\HEROES.dll
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\bin\Debug\net5.0\HEROES.pdb
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\obj\Debug\net5.0\HEROES.csproj.AssemblyReference.cache
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\obj\Debug\net5.0\HEROES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\obj\Debug\net5.0\HEROES.AssemblyInfoInputs.cache
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\obj\Debug\net5.0\HEROES.AssemblyInfo.cs
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\obj\Debug\net5.0\HEROES.csproj.CoreCompileInputs.cache
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\obj\Debug\net5.0\HEROES.dll
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\obj\Debug\net5.0\refint\HEROES.dll
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\obj\Debug\net5.0\HEROES.pdb
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\obj\Debug\net5.0\HEROES.genruntimeconfig.cache
+C:\Users\Filipe\Documents\projetos\HEROES\HEROES\obj\Debug\net5.0\ref\HEROES.dll
